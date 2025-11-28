@@ -20,6 +20,14 @@ CleanBoard is free for up to 5,000 cleaned characters. After reaching this limit
 
 ## Download
 
+### macOS
+
+**Using Homebrew:**
+```bash
+brew install --cask cleanboard
+```
+
+**Manual Download:**
 Visit [cleanboard.app](https://cleanboard.app) to download CleanBoard for your platform.
 
 ## Repository Purpose
