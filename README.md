@@ -24,6 +24,7 @@ CleanBoard is free for up to 5,000 cleaned characters. After reaching this limit
 
 **Using Homebrew:**
 ```bash
+brew tap tompodab/cleanboard
 brew install --cask cleanboard
 ```
 
